@@ -5308,7 +5308,7 @@ h3 {
 
 .boxfinal{
   text-align: start;
-  height: 60px;
+  height: 80px;
   padding: 2% 5%;
   background-image:linear-gradient(45deg,#29bbd1, #3190a3);
   color: white;
@@ -5320,8 +5320,8 @@ h3 {
 
 .boxfinal2{
   text-align: start;
-  height: 220px;
-  padding: 2% 10%;
+  height: 150px;
+  padding: 2% 3%;
   background-image:linear-gradient(45deg,#29bbd1, #3190a3);
   color: white;
   font-family: 'Times New Roman';
@@ -5333,7 +5333,7 @@ h3 {
 
 .boxfinal3{
   text-align: start;
-  height: 120px;
+  height: 150px;
   padding: 2% 3%;
   background-image:linear-gradient(45deg,#29bbd1, #3190a3);
   color: white;
@@ -5345,8 +5345,8 @@ h3 {
 
 .boxfinal4{
   text-align: start;
-  height: 120px;
-  padding: 2% 12%;
+  height: 150px;
+  padding: 2% 3%;
   background-image:linear-gradient(45deg,#29bbd1, #3190a3);
   color: white;
   font-family: 'Times New Roman';
